@@ -1,2 +1,3 @@
 # LoteosDuoc
-DuocUC: Evaluación nº3 - Programación de Algoritmos
+DuocUC: Evaluación nº3 - Programación de Algoritmos<br />
+Consiste en la realización de un sistema capaz de generar un "Mapa de lotes 4X4" (cuadrado de 16 espacios) disponibles con el fin de seleccionar uno o varios de ellos por medio del ingreso de coordenadas (uso de filas y columnas), tomando en cuenta el registro de datos de un cliente ficticio para la posterior consulta de este junto a otros datos asociados, entre otras características disponibles. Además, se añade que en el archivo principal está contemplado explicarse todo el desarrollo del código y cómo funciona este a través de los comentarios que yacen incorporados a él.
